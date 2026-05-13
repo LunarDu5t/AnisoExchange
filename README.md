@@ -1,6 +1,6 @@
 # AnisoExchange
 Currently this package only supports the calculation of anisotropic exchange tensors between two spin centers. Currently the spin centers have hard coded values of $S_1=1$ and $S_2=1/2$.
-# Prerequisits
+# Prerequisites
 * numpy>=2.4.4
 * sympy>=1.14.0
 # Usage
