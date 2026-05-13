@@ -5,4 +5,4 @@ Currently this package only supports the calculation of anisotrpic exchange tens
 * sympy>=1.14.0
 # Usage
 `python3 exchparams.py <orca-output-file>` \
-The TPrint value must be set to a very low value (<1e-9) in the ORCA input file
+The `TPrint` value must be set to a very low value (<1e-9) in the ORCA input file
